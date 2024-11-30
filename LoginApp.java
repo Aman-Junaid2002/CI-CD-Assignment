@@ -86,3 +86,4 @@ public class LoginApp extends JFrame {
         });
     }
 }
+print('test')
